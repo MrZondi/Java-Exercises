@@ -24,10 +24,10 @@ public class ContainValue {
             }
         }
         return value +" is not found in the array.";
-
     }
+    
     public static void main(String[] args){
-
+        //new array
         int arr[] = {1,2,3,4,5,6,7,8,9,0};
 
         System.out.print("Enter the value to look for: ");
